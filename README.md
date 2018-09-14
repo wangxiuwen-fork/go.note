@@ -22,3 +22,34 @@ Go代码必须放在工作空间内。它其实就是一个目录，其中包含
 | bin    | 目录包含可执行命令。                                         |                                                       |
 | GOPATH | 环境变量                                                     | http://www.flysnow.org/2017/01/05/install-golang.html |
 |        |                                                              |                                                       |
+
+
+
+# 3. 开源库
+
+## 3.1  基础库
+
+| 名称         | 源码路径                       | 说明                                           |
+| ------------ | ------------------------------ | ---------------------------------------------- |
+| beego        | https://github.com/beego       | https://beego.me/ 一个快速开发Go应用的http框架 |
+| /robfig/cron | https://github.com/robfig/cron | a cron library for go 定时任务                 |
+|              |                                |                                                |
+|              |                                |                                                |
+|              |                                |                                                |
+|              |                                |                                                |
+|              |                                |                                                |
+|              |                                |                                                |
+
+## 3.2数据库
+
+| 名称                | 源码路径                               | 说明                                                         |
+| ------------------- | -------------------------------------- | ------------------------------------------------------------ |
+| go-sql-driver/mysql | https://github.com/go-sql-driver/mysql | Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package [官方文档](http://godoc.org/github.com/go-sql-driver/mysql) |
+|                     |                                        |                                                              |
+|                     |                                        |                                                              |
+|                     |                                        |                                                              |
+|                     |                                        |                                                              |
+|                     |                                        |                                                              |
+|                     |                                        |                                                              |
+|                     |                                        |                                                              |
+
