@@ -2,6 +2,10 @@
 
 
 
+https://github.com/golang/go   Our canonical Git repository is located at <https://go.googlesource.com/go>. There is a mirror of the repository at <https://github.com/golang/go>.
+
+[Go与C的区别](http://hyperpolyglot.org/c)  http://hyperpolyglot.org/c
+
 # 1. Go Books
 
 | 序号 | 书名                                                         | 网址                                                         |
@@ -33,8 +37,8 @@ Go代码必须放在工作空间内。它其实就是一个目录，其中包含
 | ------------ | ------------------------------ | ---------------------------------------------- |
 | beego        | https://github.com/beego       | https://beego.me/ 一个快速开发Go应用的http框架 |
 | /robfig/cron | https://github.com/robfig/cron | a cron library for go 定时任务                 |
-|              |                                |                                                |
-|              |                                |                                                |
+| gin          |                                | web                                            |
+| eth          |                                | web                                            |
 |              |                                |                                                |
 |              |                                |                                                |
 |              |                                |                                                |
@@ -52,4 +56,22 @@ Go代码必须放在工作空间内。它其实就是一个目录，其中包含
 |                     |                                        |                                                              |
 |                     |                                        |                                                              |
 |                     |                                        |                                                              |
+
+# 参考
+
+|      |      | https://studygolang.com/articles/11467  Golang号称高并发，但高并发时性能不高 |
+| ---- | ---- | ------------------------------------------------------------ |
+|      |      |                                                              |
+|      |      |                                                              |
+|      |      |                                                              |
+|      |      |                                                              |
+|      |      |                                                              |
+|      |      |                                                              |
+|      |      |                                                              |
+|      |      |                                                              |
+|      |      |                                                              |
+
+
+
+
 
